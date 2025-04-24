@@ -357,8 +357,10 @@
   "Freeze Shock": "Frostvolt",
   "Ice Burn": "Frosthauch",
   "Torch Song": "Loderlied",
-  "Behemoth Blade": "Behemoth Blade",
-  "Behemoth Bash": "Behemoth Bash",
-  "Upper Hand": "Upper Hand",
-  "Thunder Cage": "Thunder Cage"
+  "Behemoth Blade": "Gigantenhieb",
+  "Behemoth Bash": "Gigantenstoß",
+  "Upper Hand": "Schnellkonter",
+  "Thunder Cage": "Thunder Cage",
+  "Guard": "Wall",
+  "Spirit": "Kampfgeist"
 }
